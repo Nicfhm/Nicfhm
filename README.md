@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nicfhm
+- 👀 I’m interested in finance and coding. 
+- 🌱 I’m currently learning python and clean code. 
+- 💞️ I’m looking to collaborate on projects that automate the financial modelling process on excel. 
+- 📫 Feel free to reach out to me at nicolas.heinzemoreno@iese.net!
